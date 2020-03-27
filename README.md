@@ -1,6 +1,8 @@
 # PyQt-Project
 S4 CSE-A FISAT FOSS LAB PROJECT using PyQt
 
+In this project, history is the sample file used to display number or lines
+
 
 GROUP MEMBERS :
 
